@@ -1,1 +1,10 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+* {
+  list-style: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
