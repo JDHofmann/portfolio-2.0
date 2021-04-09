@@ -8,6 +8,13 @@
   text-decoration: none;
 }
 
+main {
+  padding: 5%;
+  width: 1200px;
+  max-width: 100%;
+  margin: auto;
+}
+
 .main-menu ul {
   display: -webkit-box;
   display: -ms-flexbox;
